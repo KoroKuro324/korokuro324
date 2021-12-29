@@ -17,9 +17,9 @@
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<p>I’m currently studying Solidity and Perl</p>
 </div>
 
-- I’m currently studying Solidity and Perl
 <hr>
 <h2 align="center">Contact me on</h2>
 <p align="center">
