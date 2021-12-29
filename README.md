@@ -22,7 +22,7 @@
 <h2 align="center">Contact me on</h2>
 <p align="center">
     <a href="https://instagram.com/korokuro324" target="_blank"><img src="https://img.shields.io/badge/Korokuro324-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/Korokuro＃0763-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Korokuro＃0763-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 <p align="center"><samp>(all in lowercase)<samp></p>
 <hr>
